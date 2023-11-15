@@ -3,12 +3,15 @@ namespace MediaWiki\Extension\NaylorAMS;
 
 class ExtraLoginFields extends \ArrayObject {
 
-	const USERNAME = 'username';
-	const PASSWORD = 'password';
+	public const USERNAME = 'username';
+	public const PASSWORD = 'password';
 	// const AUTHKEY = 'authkey';
 
+	/**
+	 * @param array[] $config
+	 */
 	public function __construct( $config ) {
-		parent::__construct([
+		parent::__construct( [
 			static::USERNAME => [
 				'type' => 'string',
 				'label' => wfMessage( 'userlogin-yourname' ),
@@ -20,7 +23,7 @@ class ExtraLoginFields extends \ArrayObject {
 				'help' => wfMessage( 'authmanager-password-help' ),
 				'sensitive' => true,
 			]
-		]);
+		] );
 		// parent::__construct([
 		//	static::AUTHKEY => [
 		//		'type' => 'string',
