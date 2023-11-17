@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Kly"
+		]
+	},
+	"naylorams-desc": "用於整合 Naylor AMS Timberlake SSO 的身份驗證擴充功能",
+	"naylorams-loginbtn-text": "使用 Naylor AMS 登入"
+}

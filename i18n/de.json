@@ -1,0 +1,7 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"naylorams-desc": "Authentifizierungserweiterung zur Integration von Naylor AMS Timberlake SSO",
+	"naylorams-loginbtn-text": "Anmelden mit Naylor AMS"
+}
