@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"naylorams-desc": "Le extension de authentication pro integrar Naylor AMS Timberlake SSO",
+	"naylorams-loginbtn-text": "Aperir session con Naylor AMS"
+}
