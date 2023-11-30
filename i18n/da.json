@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Zakawer2"
+		]
+	},
+	"naylorams-desc": "Autentificeringsudvidelse for at integrere Naylor AMS Timberlake SSO",
+	"naylorams-loginbtn-text": "Log ind med Naylor AMS"
+}

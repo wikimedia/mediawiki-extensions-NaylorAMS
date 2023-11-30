@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Es Krim 5 Juta Rasa"
+		]
+	},
+	"naylorams-desc": "Ekstensi autentikasi untuk mengintegrasikan SSO Naylor AMS Timberlake",
+	"naylorams-loginbtn-text": "Masuk dengan Naylor AMS"
+}
