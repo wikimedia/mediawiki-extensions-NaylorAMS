@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Caiofernandes"
+		]
+	},
+	"naylorams-desc": "Extensão de autenticação para integrar Naylor AMS Timberlake SSO",
+	"naylorams-loginbtn-text": "Faça login com Naylor AMS"
+}
