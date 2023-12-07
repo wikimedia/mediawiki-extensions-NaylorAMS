@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"naylorams-desc": "Avtentikacijska razširitev za integracijo Naylor AMS Timberlake SSO",
+	"naylorams-loginbtn-text": "Prijava z Naylor AMS"
+}
