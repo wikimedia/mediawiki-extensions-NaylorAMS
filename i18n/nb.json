@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jon Harald Søby"
+		]
+	},
+	"naylorams-desc": "Autentiseringsutvidelse som integrerer med Naylor AMS Timberlake SSO",
+	"naylorams-loginbtn-text": "Logg inn med Naylor AMS"
+}
