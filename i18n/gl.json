@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"naylorams-desc": "Extensión de autenticación para integrar Naylor AMS Timberlake SSO",
+	"naylorams-loginbtn-text": "Iniciar sesión con Naylor AMS"
+}
