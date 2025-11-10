@@ -1,7 +1,7 @@
 <?php
 namespace MediaWiki\Extension\NaylorAMS;
 
-use GlobalVarConfig;
+use MediaWiki\Config\GlobalVarConfig;
 
 class Config extends GlobalVarConfig {
 	public function __construct() {
