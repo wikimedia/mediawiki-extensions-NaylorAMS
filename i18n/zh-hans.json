@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Peterxy12"
+		]
+	},
+	"naylorams-desc": "用于整合Naylor AMS Timberlake SSO的身份验证扩展功能",
+	"naylorams-loginbtn-text": "使用Naylor AMS登录"
+}
