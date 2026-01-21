@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Stefan2255"
+		]
+	},
+	"naylorams-desc": "Autentiseringstillägg för att integrera Naylor AMS Timberlake SSO",
+	"naylorams-loginbtn-text": "Logga in med Naylor AMS"
+}
