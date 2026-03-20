@@ -114,7 +114,6 @@ class NaylorAMS extends IPluggableAuthBase {
 		curl_setopt( $ch, CURLOPT_TIMEOUT, '5' );
 		curl_setopt( $ch, CURLOPT_FOLLOWLOCATION, true );
 		$responseStr = curl_exec( $ch );
-		curl_close( $ch );
 		$responseArr = simplexml_load_string( $responseStr );
 		return $responseArr;
 	}
