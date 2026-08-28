@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Wizzard"
+		]
+	},
+	"naylorams-desc": "Autentifikačné rozšírenie na integráciu Naylor AMS Timberlake SSO",
+	"naylorams-loginbtn-text": "Prihlásiť sa cez Naylor AMS"
+}
